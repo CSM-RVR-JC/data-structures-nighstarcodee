@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "data structures",
+      "setup": "hello world",
+      "run": "make test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 50,
+      "points": null
+    }
+  ]
+}
